@@ -1,0 +1,22 @@
+{
+  "name": "1a2b3c_simple-calculator",
+  "version": "1.0.3",
+  "description": " A simple calculator using Typescript, Node.js and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "1a2b3c_simple-calculator": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "1a2b3c_simple-calculator": "^1.0.2",
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
